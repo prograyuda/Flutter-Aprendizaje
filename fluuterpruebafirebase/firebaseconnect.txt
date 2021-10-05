@@ -1,0 +1,14 @@
+Para conectars a firebase hay que ingresar desde el terminal la carpeta en donde sea desea realiza el proyecto
+en dicha termina hay que ingresar lo siguiente:
+1- flutter create --org com.prueba1 nombre del proyecto
+
+Hay que ir a firebase y crearse un proyecto y luego conocetar el nombre com.prueba1 a fire base
+Luego escribir un nombre y crear la aplicacion y descargar un archivo seguir los pasos que indica firebase
+Dar en siguiente
+ir a la carpeta de android y en el archivo buil.gradle seguir lo que dice firebase
+Asegurarse de que este en kotlin 
+Ir a pubspec.yaml y debajo de donde dice cupertin_icons: ,por ahi de la linea 30,hay que poner lo siguiente:
+firebase_core:
+Luego de eso ir donde dice output en vs para ver si se instala
+si no tira nada en el output de vs se generara en la carpeta lib un archivo que empiza con generated que es la conexion con firebase
+Seguir viendo https://youtu.be/HGrNobR60TA?t=746

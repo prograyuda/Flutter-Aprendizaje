@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "986332518466",
+    "project_id": "prueba-6e1d2",
+    "storage_bucket": "prueba-6e1d2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:986332518466:android:835f45a506f8bafaea35db",
+        "android_client_info": {
+          "package_name": "com.prueba1.fluuterpruebafirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "986332518466-mqc1mtk49vg7mvpsa7jlttj828rv0tch.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDq75IzIhVQrjo-yEzKuMDtfJ97cIodjtQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "986332518466-mqc1mtk49vg7mvpsa7jlttj828rv0tch.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
